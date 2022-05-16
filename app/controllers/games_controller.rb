@@ -1,5 +1,5 @@
-Require 'json'
-Require 'open-uri'
+require 'json'
+require 'open-uri'
 
 class GamesController < ApplicationController
   def new
